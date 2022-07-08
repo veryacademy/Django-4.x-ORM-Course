@@ -1,0 +1,413 @@
+[
+  {
+    "model": "inventory.product_category",
+    "id": "1",
+    "fields": {
+      "product_id": "1",
+      "category_id": "1"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "2",
+    "fields": {
+      "product_id": "2",
+      "category_id": "2"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "3",
+    "fields": {
+      "product_id": "3",
+      "category_id": "3"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "4",
+    "fields": {
+      "product_id": "4",
+      "category_id": "4"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "5",
+    "fields": {
+      "product_id": "5",
+      "category_id": "5"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "6",
+    "fields": {
+      "product_id": "6",
+      "category_id": "6"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "7",
+    "fields": {
+      "product_id": "7",
+      "category_id": "7"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "8",
+    "fields": {
+      "product_id": "8",
+      "category_id": "8"
+    }
+  },
+
+  {
+    "model": "inventory.product_category",
+    "id": "9",
+    "fields": {
+      "product_id": "9",
+      "category_id": "1"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "10",
+    "fields": {
+      "product_id": "10",
+      "category_id": "2"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "11",
+    "fields": {
+      "product_id": "11",
+      "category_id": "3"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "12",
+    "fields": {
+      "product_id": "12",
+      "category_id": "4"
+    }
+  },
+
+  {
+    "model": "inventory.product_category",
+    "id": "13",
+    "fields": {
+      "product_id": "13",
+      "category_id": "5"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "14",
+    "fields": {
+      "product_id": "14",
+      "category_id": "6"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "15",
+    "fields": {
+      "product_id": "15",
+      "category_id": "7"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "16",
+    "fields": {
+      "product_id": "16",
+      "category_id": "8"
+    }
+  },
+
+  {
+    "model": "inventory.product_category",
+    "id": "17",
+    "fields": {
+      "product_id": "1",
+      "category_id": "9"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "17",
+    "fields": {
+      "product_id": "2",
+      "category_id": "1"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "18",
+    "fields": {
+      "product_id": "18",
+      "category_id": "2"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "19",
+    "fields": {
+      "product_id": "19",
+      "category_id": "3"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "20",
+    "fields": {
+      "product_id": "20",
+      "category_id": "4"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "21",
+    "fields": {
+      "product_id": "21",
+      "category_id": "5"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "22",
+    "fields": {
+      "product_id": "22",
+      "category_id": "6"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "23",
+    "fields": {
+      "product_id": "23",
+      "category_id": "7"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "24",
+    "fields": {
+      "product_id": "24",
+      "category_id": "8"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "25",
+    "fields": {
+      "product_id": "25",
+      "category_id": "9"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "26",
+    "fields": {
+      "product_id": "26",
+      "category_id": "3"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "27",
+    "fields": {
+      "product_id": "27",
+      "category_id": "4"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "28",
+    "fields": {
+      "product_id": "28",
+      "category_id": "1"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "29",
+    "fields": {
+      "product_id": "29",
+      "category_id": "2"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "30",
+    "fields": {
+      "product_id": "30",
+      "category_id": "3"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "31",
+    "fields": {
+      "product_id": "31",
+      "category_id": "4"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "32",
+    "fields": {
+      "product_id": "32",
+      "category_id": "1"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "33",
+    "fields": {
+      "product_id": "33",
+      "category_id": "2"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "34",
+    "fields": {
+      "product_id": "34",
+      "category_id": "3"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "35",
+    "fields": {
+      "product_id": "35",
+      "category_id": "4"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "36",
+    "fields": {
+      "product_id": "36",
+      "category_id": "1"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "37",
+    "fields": {
+      "product_id": "37",
+      "category_id": "2"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "38",
+    "fields": {
+      "product_id": "38",
+      "category_id": "3"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "39",
+    "fields": {
+      "product_id": "39",
+      "category_id": "4"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "40",
+    "fields": {
+      "product_id": "40",
+      "category_id": "1"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "41",
+    "fields": {
+      "product_id": "41",
+      "category_id": "2"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "42",
+    "fields": {
+      "product_id": "42",
+      "category_id": "3"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "43",
+    "fields": {
+      "product_id": "43",
+      "category_id": "4"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "44",
+    "fields": {
+      "product_id": "44",
+      "category_id": "1"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "45",
+    "fields": {
+      "product_id": "45",
+      "category_id": "2"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "46",
+    "fields": {
+      "product_id": "46",
+      "category_id": "3"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "47",
+    "fields": {
+      "product_id": "47",
+      "category_id": "4"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "48",
+    "fields": {
+      "product_id": "48",
+      "category_id": "1"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "49",
+    "fields": {
+      "product_id": "49",
+      "category_id": "2"
+    }
+  },
+  {
+    "model": "inventory.product_category",
+    "id": "50",
+    "fields": {
+      "product_id": "50",
+      "category_id": "2"
+    }
+  }
+]

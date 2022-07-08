@@ -1,0 +1,34 @@
+[
+  {
+    "model": "inventory.attributevalue",
+    "id": "1",
+    "fields": {
+      "attribute": "1",
+      "value": "5"
+    }
+  },
+  {
+    "model": "inventory.attributevalue",
+    "id": "2",
+    "fields": {
+      "attribute": "1",
+      "value": "6"
+    }
+  },
+  {
+    "model": "inventory.attributevalue",
+    "id": "3",
+    "fields": {
+      "attribute": "2",
+      "value": "red"
+    }
+  },
+  {
+    "model": "inventory.attributevalue",
+    "id": "4",
+    "fields": {
+      "attribute": "2",
+      "value": "blue"
+    }
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "model": "inventory.category",
+    "pk": 1,
+    "fields": {
+      "name": "fashion",
+      "slug": "fashion",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 2,
+    "fields": {
+      "name": "woman",
+      "slug": "woman",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 3,
+    "fields": {
+      "name": "shoes",
+      "slug": "shoes",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 4,
+    "fields": {
+      "name": "sport and fitness",
+      "slug": "sport-and-fitness",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 5,
+    "fields": {
+      "name": "general purpose",
+      "slug": "general-purpose",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 6,
+    "fields": {
+      "name": "flats",
+      "slug": "flats",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 7,
+    "fields": {
+      "name": "casual",
+      "slug": "casual",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 8,
+    "fields": {
+      "name": "boots",
+      "slug": "boots",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 9,
+    "fields": {
+      "name": "heels",
+      "slug": "heels",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 10,
+    "fields": {
+      "name": "wedges",
+      "slug": "wedges",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 11,
+    "fields": {
+      "name": "booties",
+      "slug": "booties",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 12,
+    "fields": {
+      "name": "loafers",
+      "slug": "loafers",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 13,
+    "fields": {
+      "name": "sandalls",
+      "slug": "sandalls",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 14,
+    "fields": {
+      "name": "slip-ons",
+      "slug": "slip-ons",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 15,
+    "fields": {
+      "name": "oxfords",
+      "slug": "oxfords",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 16,
+    "fields": {
+      "name": "slippers",
+      "slug": "slippers",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 17,
+    "fields": {
+      "name": "golf",
+      "slug": "golf",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 18,
+    "fields": {
+      "name": "trainers",
+      "slug": "trainers",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 19,
+    "fields": {
+      "name": "running",
+      "slug": "running",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 20,
+    "fields": {
+      "name": "pumps",
+      "slug": "pumps",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 21,
+    "fields": {
+      "name": "patio",
+      "slug": "patio",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 22,
+    "fields": {
+      "name": "designer",
+      "slug": "designer",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 23,
+    "fields": {
+      "name": "contemporary",
+      "slug": "contemporary",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 24,
+    "fields": {
+      "name": "comfort",
+      "slug": "comfort",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 25,
+    "fields": {
+      "name": "cross-training",
+      "slug": "cross-training",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 26,
+    "fields": {
+      "name": "formal",
+      "slug": "formal",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 27,
+    "fields": {
+      "name": "safety",
+      "slug": "safety",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 28,
+    "fields": {
+      "name": "hiking",
+      "slug": "hiking",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 29,
+    "fields": {
+      "name": "eco-friendly",
+      "slug": "eco-friendly",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 30,
+    "fields": {
+      "name": "cycling",
+      "slug": "cycling",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 31,
+    "fields": {
+      "name": "moccasins",
+      "slug": "moccasins",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 32,
+    "fields": {
+      "name": "kids",
+      "slug": "kids",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 33,
+    "fields": {
+      "name": "halloween",
+      "slug": "halloween",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 34,
+    "fields": {
+      "name": "winter",
+      "slug": "winter",
+      "is_active": true
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 35,
+    "fields": {
+      "name": "baseball",
+      "slug": "baseball",
+      "is_active": true
+    }
+  }
+]

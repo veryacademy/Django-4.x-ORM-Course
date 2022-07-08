@@ -1,0 +1,443 @@
+[
+  {
+    "model": "inventory.stockcontrol",
+    "id": "1",
+    "fields": {
+      "inventory": "1",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "135"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "2",
+    "fields": {
+      "inventory": "2",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "188"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "3",
+    "fields": {
+      "inventory": "3",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "2"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "4",
+    "fields": {
+      "inventory": "4",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "153"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "5",
+    "fields": {
+      "inventory": "5",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "84"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "6",
+    "fields": {
+      "inventory": "6",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "92"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "7",
+    "fields": {
+      "inventory": "7",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "153"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "8",
+    "fields": {
+      "inventory": "8",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "153"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "9",
+    "fields": {
+      "inventory": "9",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "113"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "10",
+    "fields": {
+      "inventory": "10",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "77"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "11",
+    "fields": {
+      "inventory": "11",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "181"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "12",
+    "fields": {
+      "inventory": "12",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "178"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "13",
+    "fields": {
+      "inventory": "13",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "43"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "14",
+    "fields": {
+      "inventory": "14",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "18"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "15",
+    "fields": {
+      "inventory": "15",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "53"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "16",
+    "fields": {
+      "inventory": "16",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "83"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "17",
+    "fields": {
+      "inventory": "17",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "102"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "18",
+    "fields": {
+      "inventory": "18",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "133"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "19",
+    "fields": {
+      "inventory": "19",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "20"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "20",
+    "fields": {
+      "inventory": "20",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "172"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "21",
+    "fields": {
+      "inventory": "21",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "116"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "22",
+    "fields": {
+      "inventory": "22",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "3"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "23",
+    "fields": {
+      "inventory": "23",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "5"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "24",
+    "fields": {
+      "inventory": "24",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "5"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "25",
+    "fields": {
+      "inventory": "25",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "140"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "26",
+    "fields": {
+      "inventory": "26",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "63"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "27",
+    "fields": {
+      "inventory": "27",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "51"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "28",
+    "fields": {
+      "inventory": "28",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "46"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "29",
+    "fields": {
+      "inventory": "29",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "158"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "30",
+    "fields": {
+      "inventory": "30",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "95"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "31",
+    "fields": {
+      "inventory": "31",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "134"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "32",
+    "fields": {
+      "inventory": "32",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "110"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "33",
+    "fields": {
+      "inventory": "33",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "21"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "34",
+    "fields": {
+      "inventory": "34",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "164"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "35",
+    "fields": {
+      "inventory": "35",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "1"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "36",
+    "fields": {
+      "inventory": "36",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "37"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "37",
+    "fields": {
+      "inventory": "37",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "137"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "38",
+    "fields": {
+      "inventory": "38",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "88"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "39",
+    "fields": {
+      "inventory": "39",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "145"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "40",
+    "fields": {
+      "inventory": "40",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "181"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "41",
+    "fields": {
+      "inventory": "41",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "113"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "42",
+    "fields": {
+      "inventory": "42",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "102"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "43",
+    "fields": {
+      "inventory": "43",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "161"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "44",
+    "fields": {
+      "inventory": "44",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "71"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "45",
+    "fields": {
+      "inventory": "45",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "180"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "46",
+    "fields": {
+      "inventory": "46",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "128"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "47",
+    "fields": {
+      "inventory": "47",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "12"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "48",
+    "fields": {
+      "inventory": "48",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "66"
+    }
+  },
+  {
+    "model": "inventory.stockcontrol",
+    "id": "49",
+    "fields": {
+      "inventory": "49",
+      "last_checked": "2021-09-01T13:20:30+03:00",
+      "units": "115"
+    }
+  }
+]
