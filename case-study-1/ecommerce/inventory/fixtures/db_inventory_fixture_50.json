@@ -1,0 +1,590 @@
+[
+  {
+    "model": "inventory.inventory",
+    "id": "1",
+    "fields": {
+      "sku": "7633969397",
+      "product": "1",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "100",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "2",
+    "fields": {
+      "sku": "6327000212",
+      "product": "2",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "99",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "3",
+    "fields": {
+      "sku": "7763166969",
+      "product": "3",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "89",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "4",
+    "fields": {
+      "sku": "1409736829",
+      "product": "4",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "15",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "5",
+    "fields": {
+      "sku": "5475550705",
+      "product": "5",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "78",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "6",
+    "fields": {
+      "sku": "9836240368",
+      "product": "6",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "71",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "7",
+    "fields": {
+      "sku": "3745869786",
+      "product": "7",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "73",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "8",
+    "fields": {
+      "sku": "7348030971",
+      "product": "8",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "73",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "9",
+    "fields": {
+      "sku": "9419284079",
+      "product": "9",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "48",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "10",
+    "fields": {
+      "sku": "1254249244",
+      "product": "10",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "28",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "11",
+    "fields": {
+      "sku": "2642955408",
+      "product": "11",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "18",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "12",
+    "fields": {
+      "sku": "5625485785",
+      "product": "12",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "72",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "13",
+    "fields": {
+      "sku": "7100806084",
+      "product": "13",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "32",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "14",
+    "fields": {
+      "sku": "4124347238",
+      "product": "14",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "52",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "15",
+    "fields": {
+      "sku": "4800859111",
+      "product": "15",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "12",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "16",
+    "fields": {
+      "sku": "3758306701",
+      "product": "16",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "42",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "17",
+    "fields": {
+      "sku": "4619595378",
+      "product": "17",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "18",
+    "fields": {
+      "sku": "6143472586",
+      "product": "18",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "60",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "19",
+    "fields": {
+      "sku": "2083146003",
+      "product": "19",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "20",
+    "fields": {
+      "sku": "6133360024",
+      "product": "20",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "21",
+    "fields": {
+      "sku": "6416522396",
+      "product": "21",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "22",
+    "fields": {
+      "sku": "2502283131",
+      "product": "22",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "23",
+    "fields": {
+      "sku": "3573450625",
+      "product": "23",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "24",
+    "fields": {
+      "sku": "2507719208",
+      "product": "24",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "25",
+    "fields": {
+      "sku": "4410485927",
+      "product": "25",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "26",
+    "fields": {
+      "sku": "5024092523",
+      "product": "26",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "27",
+    "fields": {
+      "sku": "7513563220",
+      "product": "27",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "28",
+    "fields": {
+      "sku": "8339678340",
+      "product": "28",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "29",
+    "fields": {
+      "sku": "1522858215",
+      "product": "29",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "30",
+    "fields": {
+      "sku": "4110526611",
+      "product": "30",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "31",
+    "fields": {
+      "sku": "9492398819",
+      "product": "31",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "32",
+    "fields": {
+      "sku": "1541098955",
+      "product": "32",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "33",
+    "fields": {
+      "sku": "9599883597",
+      "product": "33",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "34",
+    "fields": {
+      "sku": "5572031494",
+      "product": "34",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "35",
+    "fields": {
+      "sku": "6875709131",
+      "product": "35",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "36",
+    "fields": {
+      "sku": "4845557149",
+      "product": "36",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "37",
+    "fields": {
+      "sku": "8833482940",
+      "product": "37",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "38",
+    "fields": {
+      "sku": "4584223002",
+      "product": "38",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "39",
+    "fields": {
+      "sku": "6585053650",
+      "product": "39",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "40",
+    "fields": {
+      "sku": "8318752678",
+      "product": "40",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "41",
+    "fields": {
+      "sku": "9881563527",
+      "product": "41",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "42",
+    "fields": {
+      "sku": "3510766870",
+      "product": "42",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "43",
+    "fields": {
+      "sku": "4545393381",
+      "product": "43",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "44",
+    "fields": {
+      "sku": "7178939984",
+      "product": "44",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "45",
+    "fields": {
+      "sku": "1522404252",
+      "product": "45",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "46",
+    "fields": {
+      "sku": "3863273031",
+      "product": "46",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "47",
+    "fields": {
+      "sku": "2397442989",
+      "product": "47",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "48",
+    "fields": {
+      "sku": "4763299118",
+      "product": "48",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  },
+  {
+    "model": "inventory.inventory",
+    "id": "49",
+    "fields": {
+      "sku": "6670093888",
+      "product": "49",
+      "is_active": "1",
+      "is_default": "1",
+      "price": "45",
+      "created_at": "2021-09-01T13:20:30+03:00"
+    }
+  }
+]

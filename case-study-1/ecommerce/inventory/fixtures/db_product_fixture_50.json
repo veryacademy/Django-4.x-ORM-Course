@@ -1,0 +1,504 @@
+[
+  {
+    "model": "inventory.product",
+    "id": "1",
+    "fields": {
+      "name": "widstar running sneakers",
+      "slug": "widstar-running-sneakers",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "2",
+    "fields": {
+      "name": "girl zada gray flip flop sandal",
+      "slug": "girl-zada-gray-flip-flop-sandal",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "3",
+    "fields": {
+      "name": "girl primotoo open toe synthetiflip flop sandal",
+      "slug": "girl-primotoo-open-toe-synthetiflip-flop-sandal",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "4",
+    "fields": {
+      "name": "girl zada orange flip flop sandal",
+      "slug": "girl-zada-orange-flip-flop-sandal",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "5",
+    "fields": {
+      "name": "lips too too demand open toe synthetiwedge heel",
+      "slug": "lips-too-too-demand-open-toe-synthetiwedge-heel",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "6",
+    "fields": {
+      "name": "lips too too skip synthetibaet flats",
+      "slug": "lips-too-too-skip-synthetibaet-flats",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "7",
+    "fields": {
+      "name": "lips too too imbody natura wedge sandal",
+      "slug": "lips-too-too-imbody-natura-wedge-sandal",
+
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "8",
+    "fields": {
+      "name": "lips too too jit riding boot",
+      "slug": "lips-too-too-jit-riding-boot",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "9",
+    "fields": {
+      "name": "lips too too effort tan anke boot",
+      "slug": "lips-too-too-effort-tan-anke-boot",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "10",
+    "fields": {
+      "name": "lips too too fynn rose god thong sandal",
+      "slug": "lips-too-too-fynn-rose-god-thong-sandal",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "11",
+    "fields": {
+      "name": "lips too too jayden round toe synthetigray over the knee boot",
+      "slug": "lips-too-too-jayden-round-toe-synthetigray-over-the-knee-boot",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "12",
+    "fields": {
+      "name": "lips too too janee brown extended kneehigh riding boot",
+      "slug": "lips-too-too-janee-brown-extended-kneehigh-riding-boot",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "13",
+    "fields": {
+      "name": "lips too too inga wedge sandal",
+      "slug": "lips-too-too-inga-wedge-sandal",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "14",
+    "fields": {
+      "name": "lips too ripped synthetigreen fashion sneakers",
+      "slug": "lips-too-ripped-synthetigreen-fashion-sneakers",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "15",
+    "fields": {
+      "name": "men and aqua shoes",
+      "slug": "men-and-aqua-shoes",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "16",
+    "fields": {
+      "name": "degree by refex heathered stretch yoga legging",
+      "slug": "degree-by-refex-heathered-stretch-yoga-legging",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "17",
+    "fields": {
+      "name": "ana maddy round toe canvas bootie",
+      "slug": "ana-maddy-round-toe-canvas-bootie",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "18",
+    "fields": {
+      "name": "ana open toe synthetisandals",
+      "slug": "ana-open-toe-synthetisandals",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "19",
+    "fields": {
+      "name": "ana michael open toe synthetiwedge heel",
+      "slug": "ana-michael-open-toe-synthetiwedge-heel",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "20",
+    "fields": {
+      "name": "ana vicky round toe synthetibronze anke boot",
+      "slug": "ana-vicky-round-toe-synthetibronze-anke-boot",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "21",
+    "fields": {
+      "name": "axny apha round toe synthetibrown anke boot",
+      "slug": "axny-apha-round-toe-synthetibrown-anke-boot",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "22",
+    "fields": {
+      "name": "axny anise round toe synthetianke boot",
+      "slug": "axny-anise-round-toe-synthetianke-boot",
+
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "23",
+    "fields": {
+      "name": "axny graham round toe synthetimid caf boot",
+      "slug": "axny-graham-round-toe-synthetimid-caf-boot",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "24",
+    "fields": {
+      "name": "axny tuner round toe synthetibootie",
+      "slug": "axny-tuner-round-toe-synthetibootie",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "25",
+    "fields": {
+      "name": "axny idona open toe synthetiplatform heel",
+      "slug": "axny-idona-open-toe-synthetiplatform-heel",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "26",
+    "fields": {
+      "name": "aerosoes redwood pump faux patent",
+      "slug": "aerosoes-redwood-pump-faux-patent",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "27",
+    "fields": {
+      "name": "aerosoes loipowp sandals",
+      "slug": "aerosoes-loipowp-sandals",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "28",
+    "fields": {
+      "name": "aerosoes ride with me souch boot combo faux leather",
+      "slug": "aerosoes-ride-with-me-souch-boot-combo-faux-leather",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "29",
+    "fields": {
+      "name": "aerosoes moasses round toe synthetiboot",
+      "slug": "aerosoes-moasses-round-toe-synthetiboot",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "30",
+    "fields": {
+      "name": "aerosoes creativity boot faux leather",
+      "slug": "aerosoes-creativity-boot-faux-leather",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "31",
+    "fields": {
+      "name": "aerosoes stone push faux leather",
+      "slug": "aerosoes-stone-push-faux-leather",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "32",
+    "fields": {
+      "name": "aerosoes ename round toe canvas brown winter boot",
+      "slug": "aerosoes-ename-round-toe-canvas-brown-winter-boot",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "33",
+    "fields": {
+      "name": "aerosoes base board side sandal red faux leather",
+      "slug": "aerosoes-base-board-side-sandal-red-faux-leather",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "34",
+    "fields": {
+      "name": "aerosoes highight brown sides sandal",
+      "slug": "aerosoes-highight-brown-sides-sandal",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "35",
+    "fields": {
+      "name": "aerosoes rock soid natura fabric",
+      "slug": "aerosoes-rock-soid-natura-fabric",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "36",
+    "fields": {
+      "name": "aerosoes caendar bootie brown",
+      "slug": "aerosoes-caendar-bootie-brown",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "37",
+    "fields": {
+      "name": "aerosoes barricade duck boot brown tan combo",
+      "slug": "aerosoes-barricade-duck-boot-brown-tan-combo",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "38",
+    "fields": {
+      "name": "aerosoes may push wedge sandal tan combo fabric",
+      "slug": "aerosoes-may-push-wedge-sandal-tan-combo-fabric",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "39",
+    "fields": {
+      "name": "aerosoes time limit loafer faux leather",
+      "slug": "aerosoes-time-limit-loafer-faux-leather",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "40",
+    "fields": {
+      "name": "aerosoes god roe booties grey",
+      "slug": "aerosoes-god-roe-booties-grey",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "41",
+    "fields": {
+      "name": "aerosoes coo breeze side sandal denim twi",
+      "slug": "aerosoes-coo-breeze-side-sandal-denim-twi",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "42",
+    "fields": {
+      "name": "aerosoes trust fund espadrie light tan faux leather",
+      "slug": "aerosoes-trust-fund-espadrie-light-tan-faux-leather",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "43",
+    "fields": {
+      "name": "aerosoes trust fund espadrie faux leather",
+      "slug": "aerosoes-trust-fund-espadrie-faux-leather",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "44",
+    "fields": {
+      "name": "aerosoes expert pump fora combo fora printed fabric",
+      "slug": "aerosoes-expert-pump-fora-combo-fora-printed-fabric",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "45",
+    "fields": {
+      "name": "aerosoes invitation anke bootie taupe faux leathersuede",
+      "slug": "aerosoes-invitation-anke-bootie-taupe-faux-leathersuede",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "46",
+    "fields": {
+      "name": "aerosoes waterspowt tstrap sandal combo faux leatherfabric",
+      "slug": "aerosoes-waterspowt-tstrap-sandal-combo-faux-leatherfabric",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "47",
+    "fields": {
+      "name": "aerosoes harmonize bootie faux leather",
+      "slug": "aerosoes-harmonize-bootie-faux-leather",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "48",
+    "fields": {
+      "name": "aerosoes first roe bootie fabric",
+      "slug": "aerosoes-first-roe-bootie-fabric",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "49",
+    "fields": {
+      "name": "aerosoes lavish pain toe shoe faux leather",
+      "slug": "aerosoes-lavish-pain-toe-shoe-faux-leather",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  },
+  {
+    "model": "inventory.product",
+    "id": "50",
+    "fields": {
+      "name": "aerosoes my way biker boot faux leather",
+      "slug": "aerosoes-my-way-biker-boot-faux-leather",
+      "description": "I am a shoe",
+      "is_active": "1"
+    }
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "1",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "1"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "2",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "2"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "3",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "3"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "4",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "4"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "5",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "5"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "6",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "6"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "7",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "7"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "8",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "8"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "9",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "9"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "10",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "10"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "11",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "11"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "12",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "12"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "13",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "13"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "14",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "14"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "15",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "15"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "16",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "16"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "17",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "17"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "18",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "18"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "19",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "19"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "20",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "20"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "21",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "21"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "22",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "22"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "23",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "23"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "24",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "24"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "25",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "25"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "26",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "26"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "27",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "27"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "28",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "28"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "29",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "29"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "30",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "30"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "31",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "31"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "32",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "32"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "33",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "33"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "34",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "34"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "35",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "35"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "36",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "36"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "37",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "37"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "38",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "38"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "39",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "39"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "40",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "40"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "41",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "41"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "42",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "42"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "43",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "43"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "44",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "44"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "45",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "45"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "46",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "46"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "47",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "47"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "48",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "48"
+    }
+  },
+  {
+    "model": "inventory.inventory_attribute_values",
+    "id": "49",
+    "fields": {
+      "attributevalue_id": "1",
+      "inventory_id": "49"
+    }
+  }
+]
