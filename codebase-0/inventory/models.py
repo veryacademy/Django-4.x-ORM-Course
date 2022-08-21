@@ -21,7 +21,7 @@ class Product(models.Model):
         ordering = ["age"]
     
     def __str__(self):
-        return f"Product name: {self.name}"
+        return f"Product name: {self.the_name}"
 
 class Stock(models.Model):
     units = models.BigIntegerField()
