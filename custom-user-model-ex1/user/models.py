@@ -15,9 +15,10 @@ class User(AbstractUser):
     role = models.CharField(max_length=50, choices=Role.choices)
 
     def save(self, *args, **kwargs):
-        if not self.pk:
+        if not self.role:
             self.role = self.base_role
             return super().save(*args, **kwargs)
+        return super().save(*args, **kwargs)
 
 
 class StudentManager(BaseUserManager):
